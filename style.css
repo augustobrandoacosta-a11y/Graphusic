@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #121212;
+}
+
+h1 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #1DB954; /* Spotify-style Green */
+    z-index: 10;
+    margin: 0;
+    font-size: 24px;
+}
+
+#cy {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+}
